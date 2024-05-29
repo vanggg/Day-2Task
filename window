@@ -1,0 +1,17 @@
+window Object
+Definition: Represents the entire browser window or tab.
+Scope: Acts as the global object in the browser environment, meaning global variables and functions are properties of the window.
+Primary Functions:
+Window Control: Manages opening, closing, and resizing browser windows.
+Browser Information: Provides details about the browser and screen, such as dimensions and user agent information.
+Timing Events: Includes functions for executing code after a delay or at regular intervals.
+Global Functions: Hosts general JavaScript functions like alerts, prompts, and confirmations.
+document Object
+Definition: Represents the HTML document loaded in the window, forming the Document Object Model (DOM).
+Hierarchy: It is a property of the window object.
+Primary Functions:
+Accessing Elements: Methods to find and interact with HTML elements by ID, class, tag, or selectors.
+Creating and Inserting Elements: Provides ways to create new elements and insert them into the DOM.
+Manipulating Attributes and Content: Allows modification of element attributes and content.
+Event Handling: Supports attaching event listeners to elements to handle user interactions.
+Document Metadata: Accesses and modifies document metadata such as the title and URL.
